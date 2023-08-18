@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devrewoh
-- 👀 I’m interested in becoming a better problem solver, entrepreneur and person. Student. Aspiring developer.
-- 🌱 I’m currently learning Go and IT/cybersecurity fundamentals.
+- 👀 I’m interested in becoming a better problem solver, entrepreneur and person.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any project that creates a positive impact for society.
 - 📫 How to reach me ogdevrewoh@gmail.com
 
