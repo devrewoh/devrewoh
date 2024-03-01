@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devrewoh
-- 👀 I’m interested in becoming a better human, father, husband, problem solver and entrepreneur.
-- 🌱 I’m currently learning Web Development and programming fundamentals.
-- 💞️ I’m looking to collaborate on any project that creates a positive impact for society.
+- 👀 I’m interested in becoming a better human, father, husband and problem solver.
+- 🌱 I’m currently enrolled in Western Governor's University Software Engineering program.
+- 💞️ I’m looking to collaborate on any project that could be a learning opportunity or creates a positive impact.
 - 📫 How to reach me ogdevrewoh@gmail.com
 
 <!---
