@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devrewoh
 - 👀 I’m interested in becoming a better human, father, husband and problem solver.
-- 🌱 I’m currently enrolled in a SWE program at WGU and I am eager to learn more about backend development.
+- 🌱 Actively learning how to program and think like an engineer. I'm mostly interested in Go and back-end but looking forward to diving deep into front end technologies too.
 - 💞️ I’m looking to collaborate on any project that could be a learning opportunity or creates a positive impact.
 - 📫 How to reach me ogdevrewoh@gmail.com
 
