@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devrewoh
 - 👀 I’m interested in becoming a better human, father, husband and problem solver.
-- 🌱 Actively learning to program and think like an engineer. I'm especially interested in Go and building businesses.
+- 🌱 Actively learning to program and think like an engineer. I'm especially interested in systems programming, backend development, and how they contribute to building businesses.
 - 💞️ I’m looking to collaborate on any project that could be a learning opportunity or creates a positive impact.
 
 <!---
